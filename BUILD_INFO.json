@@ -1,0 +1,12 @@
+{
+  "name": "FF8 Android Save Editor Mobile",
+  "version": "0.1.0",
+  "package": "io.github.ff8saveeditor",
+  "minSdk": 26,
+  "targetSdk": 36,
+  "compileSdk": 36,
+  "engine_java_compiles": true,
+  "apk_built_in_current_environment": false,
+  "apk_build_method": "GitHub Actions or Android Studio",
+  "source_sha256_reference": "ba74e1f504c3b74be6aa32c19cf53657a5183ec58c81b1217809a820486ee0a1"
+}
